@@ -65,12 +65,12 @@ shinyUI(
                 
                 h3("4. Modeling"),
                 h4("This page will display three supervised learning models - multiple linear regression or generalized linear regression model, regression or classification tree, and a random forest model.This page contains three tabs :"),
-                h4("I. Modeling Info tab :")
-                h3("This tab displays three modeling approaches, the benefits of each, and the drawbacks of each.")
+                h4("I. Modeling Info tab :"),
+                h3("This tab displays three modeling approaches, the benefits of each, and the drawbacks of each."),
                 
-                h4("II. Model Fitting tab : User can split the data and choose the proportion of data used in each training and testing data set. User can choose model settings for each model. The models get compared on the test set and appropriate fit statistics reported.")
-                h4("III. Prediction tab :")
-                H3("User can choose one of the models for prediction. User can select the values of the predictors and obtain a prediction for the response.")
+                h4("II. Model Fitting tab : User can split the data and choose the proportion of data used in each training and testing data set. User can choose model settings for each model. The models get compared on the test set and appropriate fit statistics reported."),
+                h4("III. Prediction tab :"),
+                h3("User can choose one of the models for prediction. User can select the values of the predictors and obtain a prediction for the response."),
                 br(),
                 br(),
                 
