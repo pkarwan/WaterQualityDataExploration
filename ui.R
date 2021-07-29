@@ -121,7 +121,6 @@ shinyUI(
            helpText(' $$\\hat{\\textbf{y}}i= \\hat{\\textbf{b}}o + \\sum \\hat{\\textbf{b}}j Xij $$'),
            
            
-           
         )
       )
     )
