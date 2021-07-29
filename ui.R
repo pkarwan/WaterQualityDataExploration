@@ -105,8 +105,7 @@ shinyUI(
            "7 - Organic_carbon", "- Total Organic Carbon (TOC) in source waters comes from decaying natural organic matter (NOM) as well as synthetic sources. TOC is a measure of the total amount of carbon in organic compounds in pure water. According to US EPA < 2 mg/L as TOC in treated / drinking water, and < 4 mg/Lit in source water which is use for treatment.", br(),
            "8 - Trihalomethanes", "- THMs are chemicals which may be found in water treated with chlorine. The concentration of THMs in drinking water varies according to the level of organic material in the water, the amount of chlorine required to treat the water, and the temperature of the water that is being treated. THM levels up to 80 ppm is considered safe in drinking water.", br(), 
            "9 - Turbidity", "- The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.", br(), 
-           "10 - Potability", 
-           "- Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.",                                                         
+           "10 - Potability", "- Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.",                                                         
            br(), br(), br(),
            
            
